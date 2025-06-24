@@ -1,0 +1,14 @@
+flask
+gtts
+uuid
+soundfile
+torchaudio
+torch
+scipy
+numpy
+faiss-cpu
+numba
+transformers
+langchain
+python-dotenv
+openai
